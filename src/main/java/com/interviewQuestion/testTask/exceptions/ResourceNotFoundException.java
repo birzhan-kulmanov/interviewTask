@@ -8,7 +8,6 @@ import java.util.UUID;
 public class ResourceNotFoundException extends RuntimeException {
     String resourceName;
     String field;
-    String fieldName;
     UUID fieldId;
 
     public ResourceNotFoundException(String resourceName, String field, UUID fieldId){

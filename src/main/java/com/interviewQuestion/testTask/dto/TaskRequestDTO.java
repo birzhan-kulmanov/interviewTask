@@ -12,6 +12,10 @@ import lombok.Data;
 @AllArgsConstructor
 public class TaskRequestDTO {
 
+    // Суть этой ДТОшки чтобы пользователь вводил только эти данные,
+    // а все остальное такие как id или created/updated date генерируются автоматически
+
+    // Валидация данных
     @NotBlank
     @Size(max = 100, message = "Should be at most 100")
     private String title;

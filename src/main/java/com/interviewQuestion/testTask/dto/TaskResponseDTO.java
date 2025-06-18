@@ -13,6 +13,7 @@ import java.util.UUID;
 @AllArgsConstructor
 @NoArgsConstructor
 public class TaskResponseDTO {
+
     private UUID id;
     private String title;
     private String description;

@@ -1,0 +1,12 @@
+com/interviewQuestion/testTask/dto/TaskRequestDTO.class
+com/interviewQuestion/testTask/exceptions/MyGlobalExceptionHandler.class
+com/interviewQuestion/testTask/configurations/AppConfig.class
+com/interviewQuestion/testTask/model/Task.class
+com/interviewQuestion/testTask/controller/TaskController.class
+com/interviewQuestion/testTask/model/TaskStatus.class
+com/interviewQuestion/testTask/dto/TaskResponseDTO.class
+com/interviewQuestion/testTask/TestTaskApplication.class
+com/interviewQuestion/testTask/exceptions/ResourceNotFoundException.class
+com/interviewQuestion/testTask/service/TaskService.class
+com/interviewQuestion/testTask/model/APIResponse.class
+com/interviewQuestion/testTask/repository/TaskRepository.class

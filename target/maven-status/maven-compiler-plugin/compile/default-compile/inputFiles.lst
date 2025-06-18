@@ -1,0 +1,12 @@
+/Users/birzankulmanov/Desktop/Projects/testTask/src/main/java/com/interviewQuestion/testTask/TestTaskApplication.java
+/Users/birzankulmanov/Desktop/Projects/testTask/src/main/java/com/interviewQuestion/testTask/configurations/AppConfig.java
+/Users/birzankulmanov/Desktop/Projects/testTask/src/main/java/com/interviewQuestion/testTask/controller/TaskController.java
+/Users/birzankulmanov/Desktop/Projects/testTask/src/main/java/com/interviewQuestion/testTask/dto/TaskRequestDTO.java
+/Users/birzankulmanov/Desktop/Projects/testTask/src/main/java/com/interviewQuestion/testTask/dto/TaskResponseDTO.java
+/Users/birzankulmanov/Desktop/Projects/testTask/src/main/java/com/interviewQuestion/testTask/exceptions/MyGlobalExceptionHandler.java
+/Users/birzankulmanov/Desktop/Projects/testTask/src/main/java/com/interviewQuestion/testTask/exceptions/ResourceNotFoundException.java
+/Users/birzankulmanov/Desktop/Projects/testTask/src/main/java/com/interviewQuestion/testTask/model/APIResponse.java
+/Users/birzankulmanov/Desktop/Projects/testTask/src/main/java/com/interviewQuestion/testTask/model/Task.java
+/Users/birzankulmanov/Desktop/Projects/testTask/src/main/java/com/interviewQuestion/testTask/model/TaskStatus.java
+/Users/birzankulmanov/Desktop/Projects/testTask/src/main/java/com/interviewQuestion/testTask/repository/TaskRepository.java
+/Users/birzankulmanov/Desktop/Projects/testTask/src/main/java/com/interviewQuestion/testTask/service/TaskService.java

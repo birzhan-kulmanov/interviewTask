@@ -5,6 +5,7 @@ import com.interviewQuestion.testTask.dto.TaskResponseDTO;
 import com.interviewQuestion.testTask.model.Task;
 import com.interviewQuestion.testTask.model.TaskStatus;
 import com.interviewQuestion.testTask.repository.TaskRepository;
+import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.InjectMocks;

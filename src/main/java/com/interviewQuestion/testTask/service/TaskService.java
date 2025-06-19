@@ -27,7 +27,11 @@ public class TaskService {
         Task task = modelMapper.map(taskRequestDTO, Task.class);
 
         // Когда создаем задачу его статус по дефолту PENDING
-        task.setStatus(TaskStatus.PENDING);
+        if(taskRequestDTO.getStatus()==null){
+            task.setStatus(TaskStatus.PENDING);
+        }else{
+            task.setStatus(taskRequestDTO.getStatus());
+        }
         task = taskRepository.save(task);
         return modelMapper.map(task, TaskResponseDTO.class);
     }
